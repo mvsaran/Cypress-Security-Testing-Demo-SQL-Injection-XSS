@@ -2,7 +2,7 @@
 
 This project demonstrates how to use **Cypress** to automate the detection of critical web application vulnerabilities: **SQL Injection (SQLi)** and **Cross-Site Scripting (XSS)**.
 
-![Security Test Demo](demo.webp)
+![Security Test Demo](banner.png)
 
 ## 🚀 Why This Project Matters
 
@@ -46,7 +46,7 @@ We use Cypress not just for UI testing, but to simulate malicious attacks.
     ```bash
     node server.js
     ```
-    The app will be available at [http://localhost:3000](http://localhost:3000).
+    The app will be available at [http://localhost:3000].
 
 3.  **Run the Security Tests**:
     Open a new terminal and run:
