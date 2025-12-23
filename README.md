@@ -2,7 +2,6 @@
 
 This project demonstrates how to use **Cypress** to automate the detection of critical web application vulnerabilities: **SQL Injection (SQLi)** and **Cross-Site Scripting (XSS)**.
 
-![Security Test Demo](banner.png)
 
 ## 🚀 Why This Project Matters
 
