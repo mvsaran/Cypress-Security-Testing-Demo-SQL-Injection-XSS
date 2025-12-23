@@ -54,3 +54,7 @@ We use Cypress not just for UI testing, but to simulate malicious attacks.
     npx cypress run
     ```
     You will see Cypress execute the attacks and verify the successful exploitation of the vulnerabilities.
+
+## 👨‍💻 Author
+
+**Saran Kumar**
