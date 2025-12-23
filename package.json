@@ -1,0 +1,26 @@
+{
+  "name": "cypress-security-demo",
+  "version": "1.0.0",
+  "description": "Demo of SQL Injection and XSS testing with Cypress",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "security",
+    "sqli",
+    "xss",
+    "testing"
+  ],
+  "author": "Antigravity",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "cypress": "^15.8.1",
+    "express": "^5.2.1",
+    "sqlite3": "^5.1.7"
+  }
+}
